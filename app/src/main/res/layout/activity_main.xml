@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:textSize="30sp"
-        android:text="roll the dice!"
+        android:text="if you want, roll"
         />
 
     <Button
